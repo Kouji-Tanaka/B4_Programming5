@@ -1,5 +1,6 @@
 # 問5 数値解析
 $$ (1) \quad \lim_{n\to+\infty} \sum_{m=1}^n \frac {(-1)^{m-1}} m  = \log 2 $$
+
 $$ (2) \quad \lim_{n\to+\infty} \sum_{m=0}^n \frac {(-1)^m} {2m+1} = \frac \pi 4 $$
 
 ---

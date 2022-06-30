@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <math.h>
+#include "../include/sub.h"
     
 double sigma_1(double n)
 {
